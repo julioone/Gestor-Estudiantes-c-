@@ -1,0 +1,13 @@
+c:\users\julio.ospina\documents\visual studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\bin\Debug\gestionEstudiantes.exe.config
+c:\users\julio.ospina\documents\visual studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\bin\Debug\gestionEstudiantes.exe
+c:\users\julio.ospina\documents\visual studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\bin\Debug\gestionEstudiantes.pdb
+c:\users\julio.ospina\documents\visual studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\obj\Debug\gestionEstudiantes.csprojResolveAssemblyReference.cache
+c:\users\julio.ospina\documents\visual studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\obj\Debug\gestionEstudiantes.AddCursoForm.resources
+c:\users\julio.ospina\documents\visual studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\obj\Debug\gestionEstudiantes.Form1.resources
+c:\users\julio.ospina\documents\visual studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\obj\Debug\gestionEstudiantes.Properties.Resources.resources
+c:\users\julio.ospina\documents\visual studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\obj\Debug\gestionEstudiantes.csproj.GenerateResource.Cache
+c:\users\julio.ospina\documents\visual studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\obj\Debug\gestionEstudiantes.exe
+c:\users\julio.ospina\documents\visual studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\obj\Debug\gestionEstudiantes.pdb
+C:\Users\julio.ospina\Documents\Visual Studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\obj\Debug\gestionEstudiantes.AddStudentForm.resources
+C:\Users\julio.ospina\Documents\Visual Studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\obj\Debug\gestionEstudiantes.enrollStudent.resources
+C:\Users\julio.ospina\Documents\Visual Studio 2012\Projects\gestionEstudiantes\gestionEstudiantes\obj\Debug\gestionEstudiantes.DigitarNotasForm.resources
